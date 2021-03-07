@@ -28,6 +28,7 @@ You probably know that but just in case:
 1. Make sure your bike is paired with the CBY app. 
 2. Open the app, tap "Connect to bike"
 3. Choose your new speed and tap "Apply".
+4. Done, you can close the app.
 
 ---
 
