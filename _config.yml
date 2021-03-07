@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Bronco
 description: app for CBY 3
+show_downloads: false
