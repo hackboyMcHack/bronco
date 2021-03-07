@@ -76,3 +76,8 @@ Make sure you are actually connecting to a CBY 3 bike and not something with a s
 #### Write failed. Check logcat.
 
 Restart the app and trying again. You may find extra information by reading logcat with your standard `adb logcat`.
+
+⠀
+
+⠀
+
