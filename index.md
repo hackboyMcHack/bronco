@@ -43,6 +43,8 @@ You probably know that but just in case:
 3. Choose your new speed and tap "Apply".
 4. Done, you can close the app.
 
+⠀
+
 ---
 
 ⠀
