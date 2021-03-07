@@ -4,6 +4,8 @@
 
 **YOU ARE USING THIS APP AT YOUR OWN RISK.** I'm not repsonsible for any damage that may result from you interacting with this software in any way.
 
+---
+
 ## What?
 
 This Android app lets you set custom max speed on a CBY 3 bike. Tested on firmware `4.10.0`.
