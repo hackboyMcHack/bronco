@@ -8,7 +8,7 @@ This Android app that lets you set custom max speed on a CBY 3 bike. Tested on f
 
 ## Where?
 
-[Download BRONCO app](./files/Bronco.apk)
+[Download BRONCO app](https://github.com/hackboyMcHack/bronco/raw/gh-pages/files/Bronco.apk)
 
 ---
 
