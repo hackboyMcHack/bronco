@@ -51,7 +51,7 @@ Make sure Bluetooth is on. Try turning it off and on again.
 
 #### "service not found" and "Could not find activity or service"
 
-Make sure you are actually connecting to a CBY 3 bike and not something with a similar name. In theory this shouldn't happen because the app checks for necessay service before letting you past the first step, but you never know. The app will breifly show your bike's MAC address when connecting so you can use this to check.
+Make sure you are actually connecting to a CBY 3 bike and not something with a similar name. In theory this shouldn't happen because the app checks for necessay service before letting you past the first step, but you never know. The app will briefly show your bike's MAC address when connecting so you can use this to check.
 
 #### Write failed. Check logcat.
 
