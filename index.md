@@ -1,9 +1,6 @@
 
-    DISCLAIMER: YOU ARE USING 
-    THIS APP AT YOUR OWN RISK. 
-    I'm not repsonsible for any 
-    damage that may result from 
-    using this software.
+> DISCLAIMER: YOU ARE USING THIS APP AT YOUR OWN RISK. 
+> I'm not repsonsible for any damage that may result from using this software.
 
 ## What?
 
