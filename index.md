@@ -8,13 +8,6 @@
 
 ---
 
-⠀
-
-![app screenshot](./files/screen.png)
-
-⠀
-
----
 
 
 ## What?
@@ -24,6 +17,13 @@ This Android app lets you set custom max speed on a CBY 3 bike. Tested on firmwa
 ## Where?
 
 [Download app](./files/Bronco.apk)
+
+⠀
+
+---
+⠀
+
+![app screenshot](./files/screen.png)
 
 ⠀
 
