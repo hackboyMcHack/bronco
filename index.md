@@ -72,7 +72,7 @@ I was bored and I like poking around.
 
 #### Is this change permanent?
 
-If you only choose to change the speed limit, the official app may overwrite it depending on the platform and your bike version. You can also remove the limit completely which can only be reverted with Bronco _version Unchained_.
+If you only choose to change the speed limit, the official app may overwrite it depending on the platform and your bike version. You can also remove the limit completely which can only be reverted with Bronco _version Unleashed_.
 
 #### How do I revert this?
 
