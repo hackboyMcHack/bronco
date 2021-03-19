@@ -45,11 +45,12 @@ You probably know that but just in case:
 ### Usage
 
 1. Make sure your bike is paired with the CBY app. 
-2. Open the ***Bronco Unleashed*** app, tap "Connect to bike"
-3. Unlock the bike by tapping "Unlock".
-4. Tap "Gear".
-5. Choose your new speed and tap "Apply".
-6. Done, you can close the app, or continue to use it if you like it more than the official one.
+2. Open the ***Bronco Unleashed*** app
+3. Tap "Connect to bike" and wait for the dashboard to appear.
+4. Unlock the bike by tapping "Unlock".
+5. Tap "Gear".
+6. Choose your new speed and tap "Apply".
+7. Done, you can close the app, or continue to use it if you like it more than the official one.
 
 ⠀
 
