@@ -45,7 +45,7 @@ You probably know that but just in case:
 ### Usage
 
 1. Make sure your bike is paired with the CBY app. 
-2. Open the ***Bronco Unleashed*** app
+2. Open ***Bronco Unleashed*** app.
 3. Tap "Connect to bike" and wait for the dashboard to appear.
 4. Unlock the bike by tapping "Unlock".
 5. Tap "Gear".
