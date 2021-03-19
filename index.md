@@ -12,7 +12,7 @@
 
 ## What?
 
-This Android app lets you set custom max speed on a CBY 3 bike. Tested on firmware `4.10.0`.
+This Android app lets you set custom max speed on a CBY 3 bike or remove the speed restriction completely. Tested on firmware `4.10.0`.
 
 ## Where?
 
