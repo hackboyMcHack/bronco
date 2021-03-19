@@ -23,7 +23,7 @@ This Android app lets you set custom max speed on a CBY 3 bike. Tested on firmwa
 ---
 ⠀
 
-![Connection screen](./files/screen1.png) ![Dashboard](./files/screen2.png) ![Speed setting](./files/screen3.png)
+![Connection screen](./files/discovery.png) ![Dashboard](./files/dashboard.png) ![Speed setting](./files/speed_setting.png)
 
 ⠀
 
