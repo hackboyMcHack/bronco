@@ -76,7 +76,7 @@ If you only choose to change the speed limit, the official app may overwrite it 
 
 #### How do I revert this?
 
-Go to speed setting, tap "Enable speed setting", set speed to 25, tap "Apply".
+Go to speed setting, tap "Enable speed limit", set speed to 25, tap "Apply".
 
 #### Can I use this instead of the official app?
 
@@ -86,7 +86,7 @@ Bronco Unleashed features a rudimentary dashboard which provides all the informa
 
 Due to how the dashboard works, the app requires a background service. At this point I may as well show the info as a notification. If you don't like it, you can deny the app from pushing notifications in Android settings.
 
-#### Who is responsible if it f**ks my bike up?
+#### Who is responsible if this f\*cks my bike up?
 
 You. I don't give you any guarantee that this app will even work so use it at your own risk.
 
