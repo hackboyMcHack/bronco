@@ -60,7 +60,7 @@ You probably know that but just in case:
 
 ## Why?
 
-For the lulz. It was a fun challenge.
+I was bored and I like poking around.
 
 ⠀
 
