@@ -94,9 +94,6 @@ You. I don't give you any guarantee that this app will even work so use it at yo
 
 [You can still get it](https://github.com/hackboyMcHack/bronco/releases/download/1.0.0/Bronco.apk).
 
-#### Open source when?
-
-Patience, young padawan.
 
 ⠀
 
