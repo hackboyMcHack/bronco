@@ -90,6 +90,10 @@ Due to how the dashboard works, the app requires a background service. At this p
 
 You. I don't give you any guarantee that this app will even work so use it at your own risk.
 
+#### I liked the old app more.
+
+[You can still get it](https://github.com/hackboyMcHack/bronco/releases/download/1.0.0/Bronco.apk).
+
 #### Open source when?
 
 Patience, young padawan.
