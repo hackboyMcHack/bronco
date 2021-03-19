@@ -80,7 +80,7 @@ Go to speed setting, tap "Enable speed limit", set speed to 25, tap "Apply".
 
 #### Can I use this instead of the official app?
 
-Bronco Unleashed features a rudimentary dashboard which provides all the information that the official app does, except the map. You will probably want to use a standalone navigation app anyway, because the official navigation sucks. Right? 
+Bronco Unleashed features a rudimentary dashboard which provides all the information that the official app does, except the map. You will probably want to use a standalone navigation app anyway, because the official one sucks. Right? 
 
 #### Notification? why?
 
