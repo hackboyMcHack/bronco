@@ -71,7 +71,7 @@ If you only choose to change the speed limit, the official app may overwrite it 
 
 #### How do I revert this?
 
-Go to speed setting, tap "Enable speed limit", set speed to 25, tap "Apply".
+Default values are: speed limit enabled, 25km/h, field weakening 0%. You can set all these values back to default using this app.
 
 #### Can I use this instead of the official app?
 
@@ -85,9 +85,9 @@ Due to how the dashboard works, the app requires a background service. At this p
 
 You. I don't give you any guarantee that this app will even work so use it at your own risk.
 
-#### I liked the old app more.
+#### I liked the previous version more.
 
-[You can still get it](https://github.com/hackboyMcHack/bronco/releases/download/1.0.0/Bronco.apk).
+[You can still get them](https://github.com/hackboyMcHack/bronco/releases).
 
 
 ⠀
