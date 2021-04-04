@@ -42,6 +42,8 @@ You probably know that but just in case:
 3. Check the `Unknown Sources` option
 4. You can now open the `.apk` and install it
 
+⠀
+
 ### Usage
 
 1. Make sure your bike is paired with the CBY app and Bluetooth is on. 
