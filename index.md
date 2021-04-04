@@ -16,7 +16,7 @@ This Android app lets you set custom max speed on a CBY 3 bike or remove the spe
 
 ## Where?
 
-[Download Bronco Unleashed](https://github.com/hackboyMcHack/bronco/releases/download/3.0/BroncoUnleashed30.apk)
+[Download Bronco Unleashed](https://github.com/hackboyMcHack/bronco/releases/download/2.2/BroncoUnleashed22.apk)
 
 ⠀
 
