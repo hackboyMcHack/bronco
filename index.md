@@ -23,7 +23,7 @@ This Android app lets you set custom max speed on a CBY 3 bike or remove the spe
 ---
 ⠀
 
-![Connection screen](./files/discovery.png) ![Dashboard](./files/dashboard.png) ![Speed setting](./files/speed_setting.png)
+![Dashboard](./files/30-dashboard.png) ![Speed setting](./files/30-speedsetting.png) ![Field weakening](./files/30-fieldweakening.png) ![Settings](./files/30-settings.png) ![Bike details](./files/30-details.png)
 
 ⠀
 
