@@ -49,6 +49,8 @@ You probably know that but just in case:
 3. Choose the bike you want to connect to.
 4. You can now control the bike, change its options etc.
 
+⠀
+
 ---
 
 ⠀
