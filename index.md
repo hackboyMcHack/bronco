@@ -12,7 +12,7 @@
 
 ## What?
 
-This Android app lets you set custom max speed on a CBY bike (all models) or remove the speed restriction completely. Tested on firmware `4.10.0`.
+This Android app lets you set custom max speed on a CBY bike (all models) or remove speed restriction completely. Tested on firmware `4.10.0`.
 
 ## Where?
 
@@ -71,7 +71,7 @@ I was bored and I like poking around.
 
 #### Is this change permanent?
 
-If you only choose to change the speed limit, the official app may overwrite it depending on the platform and your bike version. You can also remove the limit completely which can only be reverted with Bronco _version Unleashed_.
+If you only choose to change the speed limit, the official app will overwrite it depending on the platform and your bike version. You can also remove the limit completely which can only be reverted with Bronco _version Unleashed_.
 
 #### How do I revert this?
 
@@ -79,7 +79,7 @@ Default values are: speed limit enabled, 25km/h, field weakening 0%. You can set
 
 #### Can I use this instead of the official app?
 
-Bronco Unleashed features a rudimentary dashboard which provides all the information that the official app does, except the map. You will probably want to use a standalone navigation app anyway, because the official one sucks. Right? 
+Bronco Unleashed features a rudimentary dashboard which provides all the information the official app does, except the map. You will probably want to use a standalone navigation app anyway, because the official one sucks. Right? 
 
 #### Notification? why?
 
