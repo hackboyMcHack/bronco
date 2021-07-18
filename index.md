@@ -12,7 +12,7 @@
 
 ## What?
 
-This Android app lets you set custom max speed on a CBY bike (all models) or remove speed restriction completely. Tested on firmware `4.10.0`.
+This Android app lets you set custom max speed on a CBY bike (all models) or remove speed restriction completely. Tested on firmwares `4.10.0` to `4.10.9` but should work on all of them.
 
 ## Where?
 
@@ -23,7 +23,7 @@ This Android app lets you set custom max speed on a CBY bike (all models) or rem
 ---
 ⠀
 
-![Dashboard](./files/30-dashboard.png) ![Speed setting](./files/30-speedsetting.png) ![Field weakening](./files/30-fieldweakening.png) ![Settings](./files/30-settings.png) ![Bike details](./files/30-details.png)
+![Dashboard](./files/30-dashboard.png) ![Speed setting](./files/30-speedsetting.png) ![Field weakening](./files/30-fieldweakening.png) ![Settings](./files/30-settings.png) ![Bike details](./files/30-details.png) ![Fault diagnostics](./files/40-faults.png)
 
 ⠀
 
