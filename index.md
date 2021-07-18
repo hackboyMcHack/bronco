@@ -10,6 +10,31 @@
 
 ⠀
 
+## New in 4.0
+
+⠀
+
+
+New features:
+
+- **Auto lock** setting
+- **Fault reader** mode to help debug issues with the bike's controller
+- **ASI register reader** available after unlocking developer mode by tapping "App version" 7 times. 
+  - This feature lets you read configuration parameters of the bike's controller. 
+  - The source has enough groundwork for experienced modders to build their own *arbitrary configuration writer*.
+- Option to **adjust initial torque** when accelerating. 
+  - If you're on older firmwares, the "soft" setting implements the official fix for motor "brrr" sound and unwanted vibrations when accelerating from a stop.
+
+Improvements:
+
+- Streamlined user experience when performing long lasting Bluetooth operations
+
+⠀
+
+---
+
+⠀
+
 ## What?
 
 This Android app lets you set custom max speed on a CBY bike (all models) or remove speed restriction completely. Tested on firmwares `4.10.0` to `4.10.9` but should work on all of them.
