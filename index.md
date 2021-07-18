@@ -12,10 +12,6 @@
 
 ## New in 4.0
 
-⠀
-
-
-New features:
 
 - **Auto lock** setting
 - **Fault reader** mode to help debug issues with the bike's controller
