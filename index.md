@@ -37,7 +37,7 @@ This Android app lets you set custom max speed on a CBY bike (all models) or rem
 
 ## Where?
 
-[Download Bronco Unleashed](https://github.com/hackboyMcHack/bronco/releases/download/3.5/BroncoUnleashed35.apk)
+[Download Bronco Unleashed](https://github.com/hackboyMcHack/bronco/releases/download/4.0/BroncoUnleashed40.apk)
 
 ⠀
 
