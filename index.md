@@ -1,43 +1,16 @@
-⠀
-
-# DISCLAIMER
-
-**YOU ARE USING THIS APP AT YOUR OWN RISK.** I'm not repsonsible for any damage that may result from you interacting with this software in any way.
-
-⠀
-
----
-
-⠀
-
-## New in 4.0
-
-
-- **Auto lock** setting
-- **Fault reader** mode to help debug issues with the bike's controller
-- **ASI register reader** available after unlocking developer mode by tapping "App version" 7 times. 
-  - This feature lets you read configuration parameters of the bike's controller. 
-  - The source has enough groundwork for experienced modders to build their own *arbitrary configuration writer*.
-- Option to **adjust initial torque** when accelerating. 
-  - If you're on older firmwares, the "soft" setting implements the official fix for motor "brrr" sound and unwanted vibrations when accelerating from a stop.
-
-Improvements:
-
-- Streamlined user experience when performing long lasting Bluetooth operations
-
-⠀
-
----
-
-⠀
-
 ## What?
 
-This Android app lets you set custom max speed on a CBY bike (all models) or remove speed restriction completely. Tested on firmwares `4.10.0` to `4.10.9` but should work on all of them.
+⠀
+
+This Android app lets you **set custom max speed** on a **Cowboy bike** (all models) or **remove speed limit** completely. Working with **firmware 4.11.3** and lower.
+
+⠀
 
 ## Where?
 
-[Download Bronco Unleashed](https://github.com/hackboyMcHack/bronco/releases/download/4.0/BroncoUnleashed40.apk)
+⠀
+
+[Download Bronco Unleashed](https://github.com/hackboyMcHack/bronco/releases/download/5.0/BroncoUnleashed50.apk)
 
 ⠀
 
@@ -46,6 +19,23 @@ This Android app lets you set custom max speed on a CBY bike (all models) or rem
 
 ![Dashboard](./files/30-dashboard.png) ![Speed setting](./files/30-speedsetting.png) ![Field weakening](./files/30-fieldweakening.png) ![Settings](./files/30-settings.png) ![Bike details](./files/30-details.png) ![Fault diagnostics](./files/40-faults.png)
 
+⠀
+
+
+---
+
+⠀
+
+## New in version 5
+
+
+- **Dashboard fix for firmware 4.11 (app version 3.0)**
+
+
+Upcoming:
+
+- Trip summary screen
+- Active tracking to .gpx
 ⠀
 
 ---
@@ -65,34 +55,15 @@ You probably know that but just in case:
 
 ⠀
 
-### Usage
-
-1. Make sure your bike is paired with the CBY app and Bluetooth is on. 
-2. Open ***Bronco Unleashed*** app.
-3. Choose the bike you want to connect to.
-4. You can now control the bike, change its options etc.
-
-⠀
-
----
-
-⠀
-
-## Why?
-
-I was bored and I like poking around.
-
-⠀
-
 ---
 
 ⠀
 
 ## FAQ
 
-#### Is this change permanent?
+#### Are the changes I make permanent?
 
-If you only choose to change the speed limit, the official app *will* overwrite it to 32 (V1, V2) or 28 (V3). You can also remove the limit completely which can only be reverted with Bronco _version Unleashed_. Or you can just ditch the official app completely.
+If you only choose to change the speed limit, the official app *will* overwrite it to 32 (V1, V2) or 28 (V3). You can also remove the limit completely which can only be reverted with Bronco Unleashed. Or you can just ditch the official app completely.
 
 #### How do I revert this?
 
@@ -102,10 +73,6 @@ Default values are: speed limit enabled, 25km/h, field weakening 0%. You can set
 
 Bronco Unleashed features a rudimentary dashboard which provides all the information the official app does, except the map. You will probably want to use a standalone navigation app anyway, because the official one sucks. Right? 
 
-#### Notification? why?
-
-Due to how the dashboard works, the app requires a background service. At this point I may as well show the info as a notification. If you don't like it, you can deny the app from pushing notifications in Android settings.
-
 #### Who is responsible if this f\*cks my bike up?
 
 You. I don't give you any guarantee that this app will even work so use it at your own risk.
@@ -114,6 +81,16 @@ You. I don't give you any guarantee that this app will even work so use it at yo
 
 [You can still get them](https://github.com/hackboyMcHack/bronco/releases).
 
+
+---
+
+⠀
+
+# DISCLAIMER
+
+**YOU ARE USING THIS APP AT YOUR OWN RISK.** I'm not repsonsible for any damage that may result from you interacting with this software in any way.
+
+⠀
 
 ⠀
 
