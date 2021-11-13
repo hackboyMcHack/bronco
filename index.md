@@ -13,7 +13,7 @@ This Android app lets you **set custom max speed** on a **Cowboy bike** (all mod
 ---
 ⠀
 
-![Dashboard](./files/30-dashboard.png) ![Speed setting](./files/30-speedsetting.png) ![Field weakening](./files/30-fieldweakening.png) ![Settings](./files/30-settings.png) ![Bike details](./files/30-details.png) ![Fault diagnostics](./files/40-faults.png)
+![View ride dashboard](./files/30-dashboard.png) ![Set speed limit](./files/30-speedsetting.png) ![Set field weakening](./files/30-fieldweakening.png) ![Manage settings](./files/30-settings.png) ![View bike details](./files/30-details.png) ![Check for faults](./files/40-faults.png)
 
 ⠀
 
