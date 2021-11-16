@@ -1,6 +1,4 @@
-⠀
-
-## Bronco Unleashed 5
+## Bronco Unleashed
 
 This Android app lets you **set custom max speed** on a **Cowboy bike** (all models) or **remove speed limit** completely. Working with **firmware 4.11.3** and lower.
 
