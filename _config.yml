@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
-title: Bronco Unleashed
-description: for Cowboy bikes
+title: Cowboy bike app to remove speed limit
+description: Bronco Unleashed lets you set custom max speed on a Cowboy bike (all models) or remove speed limit completely. Working with firmware 4.11.3 and lower.
 show_downloads: false
